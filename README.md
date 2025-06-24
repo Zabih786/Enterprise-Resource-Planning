@@ -40,6 +40,8 @@ WEB APPLICATION
 
 POS APPLICATION
 <img src = "POS-01.jpg" width ="300" /> <img src = "POS-02.jpg" width ="300" />
+
 <img src = "POS-03.jpg" width ="300" /> <img src = "POS-04.jpg" width ="300" />
+
 <img src = "POS-05.jpg" width ="300" /> <img src = "POS-06.jpg" width ="300" />
 
