@@ -1,6 +1,6 @@
 # Enterprise-Resource-Planning
 
-<img src = "HYSABAT.png" width ="1000" />
+<img src = "HYSABAT – 1.png" width ="1000" />
 
 INTRODUCTION
 
@@ -31,14 +31,13 @@ TECNICALITIES/TOOLS USED
 SYSTEM SCREENSHOTS
 
 WEB APPLICATION
-<img src = "01 ERP.png" width ="1000" /> 
-<img src = "02 ERP.png" width ="1000" />
-<img src = "03 ERP.png" width ="1000" />
-<img src = "04 ERP.png" width ="1000" />
-<img src = "05 ERP.png" width ="1000" />
-<img src = "06 ERP.png" width ="1000" />
+<img src = "branchadmin-01.JPG" width ="1000" /> 
+<img src = "branchadmin-02.JPG" width ="1000" />
+<img src = "branchadmin-03.JPG" width ="1000" />
+<img src = "branchadmin-04.JPG" width ="1000" />
+<img src = "branchadmin-05.JPG" width ="1000" />
+<img src = "branchadmin-06.JPG" width ="1000" />
 
 POS APPLICATION
-<img src = "01 POS.png" width ="1000" /> 
-<img src = "02 POS.png" width ="1000" />
+<img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="1000" />
 <img src = "03 POS.png" width ="1000" />
