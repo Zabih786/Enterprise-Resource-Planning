@@ -39,5 +39,5 @@ WEB APPLICATION
 <img src = "branchadmin-06.JPG" width ="1000" />
 
 POS APPLICATION
-<img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="1000" />
-<img src = "03 POS.png" width ="1000" />
+<img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="300" /> <img src = "POS-01.jpg" width ="300" />
+
