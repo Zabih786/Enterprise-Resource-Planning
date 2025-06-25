@@ -42,3 +42,22 @@ POS APPLICATION
 
 <img src = "POS-01.jpg" width ="250"/> <img src = "POS-02.jpg" width ="250"/> <img src = "POS-03.jpg" width ="250"/> <img src = "POS-4.jpg" width ="250"/> <img src = "POS-05.jpg" width ="250"/> <img src = "POS-06.jpg" width ="250"/>
 
+SALES DELIVERY MODULE
+
+<img src = "Driver-01.jpg" width ="250"/> <img src = "Driver-02.jpg" width ="250"/> <img src = "Driver-03.jpg" width ="250"/>
+
+HRM MOBILE APPLICATION
+
+<img src = "HRM-01.jpg" width ="250"/> <img src = "HRM-02.jpg" width ="250"/> <img src = "HRM-03.jpg" width ="250"/> <img src = "HRM-04.jpg" width ="250"/> <img src = "HRM-05.jpg" width ="250"/> <img src = "HRM-06.jpg" width ="250"/>
+
+SYSTEM LINKS
+
+System Overview: https://drive.google.com/file/d/1n2PUXQwpFY6dyxTCgeugq-rtbyW7WG0z/view?usp=sharing
+
+POS Application: https://apps.apple.com/us/app/hysabat-pos/id6742023578
+
+HRM Mobile Application: https://apps.apple.com/us/app/hrm-jmm/id6739942717
+
+Driver Application: https://apps.apple.com/us/app/erp-driver/id6478759996
+
+Website Link: https://hysabat.com
